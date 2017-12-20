@@ -61,7 +61,7 @@ DX_Offset = [dx+x for dx in DX]
 DU_Offset = [du+f(x) for du in DU]
 DY_Offset = [dy+g(f(x)) for dy in DY]
 
-ax.plot(X, U, Y, label='3D curve')
+ax.plot(X, U, Y, label='u = f(x)\ny = g(u)')
 ax.set_xlabel('x')
 ax.set_ylabel('u')
 ax.set_zlabel('y')
