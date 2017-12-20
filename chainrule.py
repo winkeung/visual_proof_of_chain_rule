@@ -66,7 +66,7 @@ ax.set_xlabel('x')
 ax.set_ylabel('u')
 ax.set_zlabel('y')
 
-ax.plot(DX_Offset, DU_Offset, DY_Offset, label = "tagent at x=2")
+ax.plot(DX_Offset, DU_Offset, DY_Offset, label = "tangent at x=2")
 
 ax.legend()
 
