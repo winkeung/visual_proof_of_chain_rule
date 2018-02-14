@@ -16,3 +16,8 @@ A Visual Proof of Calculus Chain Rule Using Python with matplotlib
 
 ### Projection on x-y plane
 ![Alt text](images/xy.png)
+
+Some discuessions on the meaning of dx:
+![Alt text](http://math.oregonstate.edu/bridge/papers/differentials.pdf)
+![Alt text](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwisrNe7q6XZAhUEUrwKHdNDBigQFggsMAE&url=http%3A%2F%2Fwww.escience.cn%2Fsystem%2Fdownload%2F80617&usg=AOvVaw18t0VxKvIe1B92MrvSnkZ6)
+
