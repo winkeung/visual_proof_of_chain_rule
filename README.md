@@ -2,7 +2,7 @@
 A Visual Proof of Calculus Chain Rule Using Python with matplotlib
 
 ## Screenshots
-![Alt text](https://latex.codecogs.com/svg.latex?\Large&space;u=x^2)
+![Alt text](https://latex.codecogs.com/svg.latex?\Large&amp;space%3Bu%3Dx%5E2)
 
 ![Alt text](https://latex.codecogs.com/svg.latex?\Large&space;y=u^2)
 
