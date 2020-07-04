@@ -18,7 +18,8 @@ A Visual Proof of Calculus Chain Rule Using Python with matplotlib
 ![Alt text](images/xy.png)
 
 ## Summary
-Tangent of composite function is the composite of the tanget function of each function.
+The tangent of composite function is the composite of the tanget function of each function.
+
 The projection of the tangent of the 3D curve is the tangent of the project on the curve.
 
 ## Some discuessions on the meaning of Differentials:
