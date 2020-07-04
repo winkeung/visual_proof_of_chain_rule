@@ -25,12 +25,13 @@ A Visual Proof of Calculus Chain Rule Using Python with matplotlib
 ![Alt text](https://latex.codecogs.com/svg.latex?dy%20%20\neq%20\lim_{\Delta%20x%20\to%200}%20\Delta%20y)
 
 ### Some existing explanations:
-1. dx is infinitesimal of Δx or very tiny tiny Δx or a number who's absolute value smaller then all positive real number but not equal to 0. (Somebody make this rigious by inventing standard analysis.)
+1. dx is infinitesimal of Δx or very tiny tiny Δx or a number who's absolute value is smaller then all positive real number but not equal to 0. (Somebody make this rigious by inventing standard analysis.)
 2. Some define dx = Δx and then define dy as linear approximation of Δy. This is not necessary as the tangent line at a point on a curve is the same no matter you treat x or y as dependent variable. And people using this definition usually don't explicity indicate which variable is independent and do it by context. And they will define ![Alt text](https://latex.codecogs.com/svg.latex?d^2x) = 0 as they define dx (Δx) as constant. So that dy is dependent both on x and dx (Δx).
 
 ### My explanation:
 dx and dy can be defined as the Δx and Δy of the tangent line. dx is not necessary equal to Δx. dx and dy can take large value(usually we are interested in the case when they take small value). This can be extended to multi variable function as dx, dy, dz... are Δx, Δy, Δz... of the linear approximation function.
 
+### References
 [Putting Differentials Back into Calculus](http://math.oregonstate.edu/bridge/papers/differentials.pdf)
 
 [Extending the Algebraic Manipulability of Differentials](https://arxiv.org/pdf/1801.09553.pdf)
