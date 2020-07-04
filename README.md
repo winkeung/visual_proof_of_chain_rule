@@ -17,7 +17,7 @@ A Visual Proof of Calculus Chain Rule Using Python with matplotlib
 ### Projection on x-y plane
 ![Alt text](images/xy.png)
 
-## Some discuessions on the meaning of *dx*:
+## Some discuessions on the meaning of Differentials: *dx*:
 
 ### What dx and dy are not:
 ![Alt text](https://latex.codecogs.com/svg.latex?dx%20%20\neq%20\lim_{\Delta%20x%20\to%200}%20\Delta%20x)
