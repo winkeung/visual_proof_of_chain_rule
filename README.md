@@ -26,7 +26,7 @@ A Visual Proof of Calculus Chain Rule Using Python with matplotlib
 
 ### Some existing explanations:
 1. dx is infinitesimal of Δx or very tiny tiny Δx or a number who's absolute value is smaller then all positive real number but not equal to 0. (Somebody make this rigious by inventing standard analysis.)
-2. Some define dx = Δx and then define dy as linear approximation of Δy. That means you have to define x as independent variable and y as dependent variable. This is not necessary as the tangent line at a point on a curve is the same no matter you treat x or y as dependent variable. And people using this definition usually don't explicity indicate which variable is independent and do it by context. And they will define ![Alt text](https://latex.codecogs.com/svg.latex?d^2x) = 0 as they define dx (=Δx) as constant. So that dy is dependent both on independent variable x and constant dx.
+2. Some define dy = f'(x)Δx (i.e. dy is linear approximation of Δy). Following this definition, dx = Δx. That means you have to define x as independent variable and y as dependent variable. This is not necessary as the tangent line at a point on a curve is the same no matter you treat x or y as dependent variable. And people using this definition usually don't explicity indicate which variable is independent and do it by context. And they will define ![Alt text](https://latex.codecogs.com/svg.latex?d^2x) = 0 as they define dx (=Δx) as constant. So that dy is dependent both on independent variable x and constant dx.
 3. Some say they are symbolic(?).
 
 ### My explanation:
