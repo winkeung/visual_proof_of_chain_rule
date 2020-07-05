@@ -37,7 +37,7 @@ Adding of one more variable corresponds to adding of one more dimension.
 3. Some say they are symbolic(?).
 
 ### My explanation:
-dx and dy can be defined as the 'Δx' and 'Δy' of the tangent line. dx is not necessarily equal to Δx, they are independent. dx and dy can take large value (but usually we are interested in the case when they take small value). This can be extended to multi variable function as dx, dy, dz... are the 'Δx', 'Δy', 'Δz'... of the linear approximation function. (e.g. for single variable function, the linear approximation function is the tangent line equation. For two variable function, it is the tangent plane equation.)
+dx and dy can be defined as the 'Δx' and 'Δy' of the tangent line. dx is not necessarily equal to Δx, they are independent. dx and dy can take large value (but usually we are interested in the case when they take small value). This can be extended to multi variable function as dx, dy, dz... are the 'Δx', 'Δy', 'Δz'... of the linear approximation function. (e.g. for single variable function, the linear approximation function is the tangent line equation. For two variable function, it is the tangent plane equation.) In 1) dx and dy is treated as fundamental concept and slop as derived concept. Here slop is treated as fundamental concept and dx and dy as derived concept.
 
 ### References
 [Putting Differentials Back into Calculus](http://math.oregonstate.edu/bridge/papers/differentials.pdf)
