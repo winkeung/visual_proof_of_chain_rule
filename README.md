@@ -22,6 +22,8 @@ The tangent of composite function is the composite of the tanget function of eac
 
 The projection of the tangent of the 3D curve is the tangent of the projection of the curve.
 
+Adding of one more variable corresponds to adding of one more dimension.
+
 ## Some discuessions on the meaning of Differentials:
 
 ### What dx and dy are not:
