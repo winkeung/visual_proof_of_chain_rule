@@ -2,8 +2,6 @@
 A Visual Proof of Calculus Chain Rule Using Python with matplotlib
 
 ## Screenshots
-![Alt text](https%3A%2F%2Flatex.codecogs.com%2Fsvg.latex%3F%5Cfrac%7Bd%7D%7Bdx%7Dy%3D%5Clim_%7Bx%2520%5Cto%25200%7D%2520%5Cfrac%7B%5CDelta%2520y%7D%7B%5CDelta%2520x%7D%5Cneq%5Cfrac%7B%5Clim_%7Bx%2520%5Cto%25200%7D%2520%5CDelta%2520y%7D%7B%5Clim_%7Bx%2520%5Cto%25200%7D%2520%5CDelta%2520x%7D)
-
 ![Alt text](https://latex.codecogs.com/svg.latex?\Large&amp;space%3Bu%3Dx%5E2)
 
 ![Alt text](https://latex.codecogs.com/svg.latex?\Large&amp;space%3By%3Du%5E2)
@@ -29,6 +27,8 @@ Adding of one more variable corresponds to adding of one more dimension.
 ## Some discuessions on the meaning of Differentials:
 
 ### What dx and dy are not:
+![Alt text](https%3A%2F%2Flatex.codecogs.com%2Fsvg.latex%3F%5Cfrac%7Bd%7D%7Bdx%7Dy%3D%5Clim_%7Bx%2520%5Cto%25200%7D%2520%5Cfrac%7B%5CDelta%2520y%7D%7B%5CDelta%2520x%7D%5Cneq%5Cfrac%7B%5Clim_%7Bx%2520%5Cto%25200%7D%2520%5CDelta%2520y%7D%7B%5Clim_%7Bx%2520%5Cto%25200%7D%2520%5CDelta%2520x%7D)
+
 ![Alt text](https://latex.codecogs.com/svg.latex?dx%20%20\neq%20\lim_{\Delta%20x%20\to%200}%20\Delta%20x)
 
 ![Alt text](https://latex.codecogs.com/svg.latex?dy%20%20\neq%20\lim_{\Delta%20x%20\to%200}%20\Delta%20y)
