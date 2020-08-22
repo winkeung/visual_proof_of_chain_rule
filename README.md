@@ -33,6 +33,7 @@ Adding of one more variable corresponds to adding of one more dimension.
 
 ![Alt text](https://latex.codecogs.com/svg.latex?%5Cfrac%7Bd%7D%7Bdx%7D%5Cfrac%7Bd%7D%7Bdx%7Dy%3D%5Cfrac%7Bd%5E2%7D%7Bdx%5E2%7Dy%3D%5Cfrac%7Bd%5Cfrac%7Bdy%7D%7Bdx%7D%7D%7Bdx%7D%5Cneq%5Cfrac%7Bd%5E2y%7D%7Bdx%5E2%7D)
 
+![Alt text](https://latex.codecogs.com/svg.latex?d%5E2x%2520%5Cneq%25200)
 ### Some existing explanations:
 1. dx is infinitesimal of Δx or very tiny tiny Δx or a number who's absolute value is smaller then all positive real number but not equal to 0. (Somebody make this rigious by inventing standard analysis.)
 2. Some define dy as linear approximation of Δy. It can be proved that dy = f'(x) Δx. Following this definition, dx = Δx. That means you have to define x as independent variable and y as dependent variable. That means linear approximation is the tangent line. The tangent line at a point on a curve is the same no matter you treat x or y as dependent variable. But people using this definition usually don't explicity indicate which variable is independent and just imply it by context. And furthermore they will define ![Alt text](https://latex.codecogs.com/svg.latex?d^2x) = 0 as they define dx (=Δx) as constant. So that dy is dependent both on independent variable x and constant dx.
