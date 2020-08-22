@@ -2,6 +2,8 @@
 A Visual Proof of Calculus Chain Rule Using Python with matplotlib
 
 ## Screenshots
+![Alt text](https://latex.codecogs.com/svg.latex?\frac{d}{dx}y=\lim_{x%20\to%200}%20\frac{\Delta%20y}{\Delta%20x}\neq\frac{\lim_{x%20\to%200}%20\Delta%20y}{\lim_{x%20\to%200}%20\Delta%20x})
+
 ![Alt text](https://latex.codecogs.com/svg.latex?\Large&amp;space%3Bu%3Dx%5E2)
 
 ![Alt text](https://latex.codecogs.com/svg.latex?\Large&amp;space%3By%3Du%5E2)
