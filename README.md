@@ -27,7 +27,7 @@ Adding of one more variable corresponds to adding of one more dimension.
 ## Some discuessions on the meaning of Differentials:
 
 ### What dx and dy are not:
-![Alt text](https://latex.codecogs.com/svg.latex?\frac{d}{dx}y=\lim_{x%20\to%200}%20\frac{\Delta%20y}{\Delta%20x}\neq\frac{\lim_{x%20\to%200}%20\Delta%20y}{\lim_{x%20\to%200}%20\Delta%20x})
+![Alt text](images/limit_of_fraction_not_eq_to_fraction_of_limit.svg)
 
 ![Alt text](https://latex.codecogs.com/svg.latex?dx%20%20\neq%20\lim_{\Delta%20x%20\to%200}%20\Delta%20x)
 
