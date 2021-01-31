@@ -33,7 +33,7 @@ Adding of one more variable corresponds to adding of one more dimension.
 
 ![Alt text](https://latex.codecogs.com/svg.latex?dy%20%20\neq%20\lim_{\Delta%20x%20\to%200}%20\Delta%20y)
 
-![Alt text](https://latex.codecogs.com/svg.latex?%5Cfrac%7Bd%7D%7Bdx%7D%5Cfrac%7Bd%7D%7Bdx%7Dy%3D%5Cfrac%7Bd%5E2%7D%7Bdx%5E2%7Dy%3D%5Cfrac%7Bd%5Cfrac%7Bdy%7D%7Bdx%7D%7D%7Bdx%7D%5Cneq%5Cfrac%7Bd%5E2y%7D%7Bdx%5E2%7D)     
+![Alt text](https://latex.codecogs.com/svg.latex?\frac{d}{dx}(\frac{d}{dx}(y))%3D\frac{d^2}{dx^2}(y)%3D\frac{d\frac{dy}{dx}}{dx}\neq\frac{d^2y}{dx^2})     
 (The first three fraction lines are not real fraction lines, they are part of the 1st and 2nd derivative operators.)
 
 ![Alt text](https://latex.codecogs.com/svg.latex?d^2x%20\neq%200)
