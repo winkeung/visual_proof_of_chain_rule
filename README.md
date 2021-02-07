@@ -9,12 +9,13 @@ The projection of the tangent of the 3D curve is the tangent of the projection o
 Adding of one more variable corresponds to adding of one more dimension.
 
 ## Example:
+### Find the derivative of y with respect to x:
 ![Alt text](https://latex.codecogs.com/svg.latex?\Large&amp;space%3Bu%3Dx%5E2)
 
 ![Alt text](images/y_eq_u_sqr.svg)
 
 ![Alt text](images/xuy.png)
-### Find the derivative of y with respect to x:
+
 
 ### Projection on x-u plane
 ![Alt text](images/xu.png)
