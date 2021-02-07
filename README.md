@@ -36,7 +36,7 @@ Adding of one more variable corresponds to adding of one more dimension.
 ![Alt text](https://latex.codecogs.com/svg.latex?\frac{d}{dx}(\frac{d}{dx}(y))%3D\frac{d^2}{dx^2}(y)%3D\frac{d\frac{dy}{dx}}{dx}\neq\frac{d^2y}{dx^2})     
 (The first three fraction lines are not real fraction lines, they are part of the 1st and 2nd derivative operators.)
 
-![Alt text](https://latex.codecogs.com/svg.latex?d^2x%20\neq%200)
+![Alt text](images/ddx_not_eq_zero.svg)
 
 ### Some existing explanations:
 1. dx is infinitesimal of Δx or very tiny tiny Δx or a number who's absolute value is smaller then all positive real number but not equal to 0. (Somebody make this rigious by inventing standard analysis.) Refer to this youtube video on how the word "small" is defined in mathematics. [Differential of a function and its geometrical meaning.](https://www.youtube.com/watch?v=FJiV2NJFeq8)
