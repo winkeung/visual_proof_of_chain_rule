@@ -1,10 +1,17 @@
 # visual_proof_of_chain_rule
 A Visual Proof of Calculus Chain Rule Using Python with matplotlib
 
-## Screenshots
+## The Proof:
+The tangent of composite function is the composite of the tanget function of each function.
+
+The projection of the tangent of the 3D curve is the tangent of the projection of the 3D curve.
+
+Adding of one more variable corresponds to adding of one more dimension.
+
+## Example:
 ![Alt text](https://latex.codecogs.com/svg.latex?\Large&amp;space%3Bu%3Dx%5E2)
 
-![Alt text](https://latex.codecogs.com/svg.latex?\Large&amp;space%3By%3Du%5E2)
+![Alt text](https://latex.codecogs.com/svg.latex%3F%5Cfrac%7Bd%5E2%7D%7Bdx%5E2%7D%28y%29)
 
 ![Alt text](images/xuy.png)
 
@@ -17,14 +24,14 @@ A Visual Proof of Calculus Chain Rule Using Python with matplotlib
 ### Projection on x-y plane
 ![Alt text](images/xy.png)
 
-## Summary
-The tangent of composite function is the composite of the tanget function of each function.
-
-The projection of the tangent of the 3D curve is the tangent of the projection of the 3D curve.
-
-Adding of one more variable corresponds to adding of one more dimension.
-
 ## Some discuessions on the meaning of Differentials:
+
+### Differential and Derivative Operator:
+1st derivative of y with respect to x:
+![Alt text](https%3A%2F%2Flatex.codecogs.com%2Fsvg.latex%3F%5Cfrac%7Bd%7D%7Bdx%7D%28y%29)
+
+2nd derivative of y with respect to x:
+![Alt text](https%3A%2F%2Flatex.codecogs.com%2Fsvg.latex%3F%5Cfrac%7Bd%5E2%7D%7Bdx%5E2%7D%28y%29)
 
 ### What dx and dy are not:
 ![Alt text](images/limit_of_fraction_not_eq_to_fraction_of_limit.svg)
@@ -34,9 +41,8 @@ Adding of one more variable corresponds to adding of one more dimension.
 ![Alt text](https://latex.codecogs.com/svg.latex?dy%20%20\neq%20\lim_{\Delta%20x%20\to%200}%20\Delta%20y)
 
 ![Alt text](https://latex.codecogs.com/svg.latex?\frac{d}{dx}(\frac{d}{dx}(y))%3D\frac{d^2}{dx^2}(y)%3D\frac{d\frac{dy}{dx}}{dx}\neq\frac{d^2y}{dx^2})     
-(The first three fraction lines are not real fraction lines, they are part of the 1st and 2nd derivative operators.)
 
-![Alt text](https://latex.codecogs.com/svg.latex?d^2x%20\neq%200)
+![Alt text](images/ddx_not_eq_zero.svg)
 
 ### Some existing explanations:
 1. dx is infinitesimal of Δx or very tiny tiny Δx or a number who's absolute value is smaller then all positive real number but not equal to 0. (Somebody make this rigious by inventing standard analysis.) Refer to this youtube video on how the word "small" is defined in mathematics. [Differential of a function and its geometrical meaning.](https://www.youtube.com/watch?v=FJiV2NJFeq8)
