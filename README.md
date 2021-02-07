@@ -26,11 +26,20 @@ Adding of one more variable corresponds to adding of one more dimension.
 
 ## Some discuessions on the meaning of Differentials:
 
-### Differential and Derivative Operator:
-####1st derivative of y with respect to x:
+### Differential and Derivative Operators are different:
+#### differential of x:
+dx
+
+#### differential of y:
+dy
+
+#### differential of y divided by differential of x:
+![Alt text](images/dy_over_dx.svg)
+
+#### 1st derivative of y with respect to x:
 ![Alt text](images/first_derivative.svg)
 
-####2nd derivative of y with respect to x:
+#### 2nd derivative of y with respect to x:
 ![Alt text](images/second_derivative.svg)
 
 ### What dx and dy are not:
