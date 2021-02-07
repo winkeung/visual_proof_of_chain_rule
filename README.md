@@ -28,10 +28,10 @@ Adding of one more variable corresponds to adding of one more dimension.
 
 ### Differential and Derivative Operator:
 1st derivative of y with respect to x:
-![Alt text](https%3A%2F%2Flatex.codecogs.com%2Fsvg.latex%3F%5Cfrac%7Bd%7D%7Bdx%7D%28y%29)
+![Alt text](images/first_derivative.svg)
 
 2nd derivative of y with respect to x:
-![Alt text](https%3A%2F%2Flatex.codecogs.com%2Fsvg.latex%3F%5Cfrac%7Bd%5E2%7D%7Bdx%5E2%7D%28y%29)
+![Alt text](images/second_derivative.svg)
 
 ### What dx and dy are not:
 ![Alt text](images/limit_of_fraction_not_eq_to_fraction_of_limit.svg)
