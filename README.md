@@ -11,7 +11,7 @@ Adding of one more variable corresponds to adding of one more dimension.
 ## Example:
 ![Alt text](https://latex.codecogs.com/svg.latex?\Large&amp;space%3Bu%3Dx%5E2)
 
-![Alt text](https://latex.codecogs.com/svg.latex?\Large&amp;space%3By%3Du%5E2)
+![Alt text](https://latex.codecogs.com/svg.latex%3F%5Cfrac%7Bd%5E2%7D%7Bdx%5E2%7D%28y%29)
 
 ![Alt text](images/xuy.png)
 
