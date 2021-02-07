@@ -42,7 +42,7 @@ dy
 #### 2nd derivative of y with respect to x:
 ![Alt text](images/second_derivative.svg)
 
-### What dx and dy are not:
+### What they are not:
 ![Alt text](images/limit_of_fraction_not_eq_to_fraction_of_limit.svg)
 
 ![Alt text](https://latex.codecogs.com/svg.latex?dx%20%20\neq%20\lim_{\Delta%20x%20\to%200}%20\Delta%20x)
