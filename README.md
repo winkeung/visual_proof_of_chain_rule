@@ -14,6 +14,7 @@ Adding of one more variable corresponds to adding of one more dimension.
 ![Alt text](images/y_eq_u_sqr.svg)
 
 ![Alt text](images/xuy.png)
+### Find the derivative of y with respect to x:
 
 ### Projection on x-u plane
 ![Alt text](images/xu.png)
