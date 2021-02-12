@@ -42,7 +42,7 @@ dy
 ![Alt text](images/first_derivative.svg)
 
 #### 2nd derivative of y with respect to x:
-![Alt text](images/second_derivative.svg)
+![Alt text](images/second_derivative.svg) but a lot of literature will write it like this ![Alt text](images\second_derivative_fraction_notation.svg)
 
 ### What they are not:
 ![Alt text](images/limit_of_fraction_not_eq_to_fraction_of_limit.svg)
