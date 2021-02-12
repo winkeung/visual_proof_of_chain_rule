@@ -35,6 +35,9 @@ dx
 #### differential of y:
 dy
 
+#### differential of dy (d(dy)):
+![Alt text](images/d2y.svg)
+
 #### differential of y divided by differential of x:
 ![Alt text](images/dy_over_dx.svg)
 
@@ -42,7 +45,7 @@ dy
 ![Alt text](images/first_derivative.svg)
 
 #### 2nd derivative of y with respect to x:
-![Alt text](images/second_derivative.svg) but a lot of literature will write it like this ![Alt text](images/second_derivative_fraction_notation.svg)
+![Alt text](images/second_derivative.svg) but a lot of literature will write it like this ![Alt text](images/second_derivative_fraction_notation.svg). Which shouldn't be treated as fraction of ![Alt text](images/d2y.svg) over ![Alt text](images/dx2.svg)
 
 ### What they are not:
 ![Alt text](images/limit_of_fraction_not_eq_to_fraction_of_limit.svg)
