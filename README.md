@@ -35,7 +35,7 @@ dx
 #### differential of y:
 dy
 
-#### differential of dy (d(dy)):
+#### differential of dy i.e. d(dy):
 ![Alt text](images/d2y.svg)
 
 #### differential of y divided by differential of x:
