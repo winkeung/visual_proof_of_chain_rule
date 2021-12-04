@@ -81,4 +81,4 @@ dx and dy can be defined as the 'Δx' and 'Δy' of the tangent line. dx is not n
 
 [Nonstandard analysis](https://en.wikipedia.org/wiki/Nonstandard_analysis)
 
-[Criticism of nonstandard analysis](Criticism of nonstandard analysis)
+[Criticism of nonstandard analysis](https://en.wikipedia.org/wiki/Criticism_of_nonstandard_analysis)
