@@ -76,3 +76,6 @@ dx and dy can be defined as the 'Δx' and 'Δy' of the tangent line. dx is not n
 [Infinitesimals, Imaginaries, Ideals, and Fictions](https://arxiv.org/ftp/arxiv/papers/1304/1304.2137.pdf)
 
 [What does dx mean by itself? - Week 9 - Lecture 5 - Mooculus](https://www.youtube.com/watch?v=CGlpya6ctEw)
+
+[What are dx and dy of dy/dx? IS dx very small?](https://www.youtube.com/watch?v=xpu34moaB04)
+
